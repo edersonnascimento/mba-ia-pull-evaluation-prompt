@@ -51,3 +51,7 @@ results/
 
 # Local documentation
 .local/
+
+# OpenClaude profile
+.openclaude-profile.json
+.openclaude/settings.local.json
